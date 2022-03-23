@@ -1,9 +1,13 @@
 # proxy
 v2ray,vmess节点，自用
 
+node.txt 国内加速地址(任选一个)：
+- [https://ghproxy.com/https://raw.githubusercontent.com/xlc520/proxy/main/vmess/node.txt](https://ghproxy.com/https://raw.githubusercontent.com/xlc520/proxy/main/vmess/node.txt)
+- [https://fastly.jsdelivr.net/gh/xlc520/proxy@main/vmess/node.txt](https://fastly.jsdelivr.net/gh/xlc520/proxy@main/vmess/node.txt)
+
+<p align="center">
 <img align="center" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF">
-
-
+</p>
 
 <p align="center">
  <img width="200px" src="https://avatars.githubusercontent.com/u/56480807?s=400&u=35fd0849b4836090297776ba863242a2267690ac&v=4"  alt="GitHub Readme Stats" />
