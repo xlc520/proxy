@@ -1,5 +1,11 @@
 # proxy
-v2ray,vmess节点，自用
+v2ray,vmess,ss,ssr,trojan节点，采集网上节点，自测一遍在上传，可能有部分测试过还是用不了，正常情况.
+
+:white_check_mark: node.txt：综合，有快有慢，自信测试，节点较多，持久性长
+
+vmess.txt：速度快，但是失效快
+
+
 
 node.txt 国内加速地址(任选一个)：
 - [https://ghproxy.com/https://raw.githubusercontent.com/xlc520/proxy/main/vmess/node.txt](https://ghproxy.com/https://raw.githubusercontent.com/xlc520/proxy/main/vmess/node.txt)
