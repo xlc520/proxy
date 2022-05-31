@@ -21,6 +21,8 @@ node.txt 国内加速地址(任选一个)：
 - [https://ghproxy.com/https://raw.githubusercontent.com/xlc520/proxy/main/vmess/node.txt](https://ghproxy.com/https://raw.githubusercontent.com/xlc520/proxy/main/vmess/node.txt)
 - [https://fastly.jsdelivr.net/gh/xlc520/proxy@main/vmess/node.txt](https://fastly.jsdelivr.net/gh/xlc520/proxy@main/vmess/node.txt)
 
+![Alt](https://repobeats.axiom.co/api/embed/8e7b7ce795708a03fc11b614cec2fe471ad097af.svg "Repobeats analytics image")
+
 <p align="center">
 <img align="center" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF">
 </p>
