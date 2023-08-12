@@ -6,7 +6,12 @@ GitHub：[https://github.com/xlc520](https://github.com/xlc520)
 
 
 # proxy
-v2ray,vmess,ss,ssr,trojan节点，采集网上节点，自测一遍在上传，可能有部分测试过还是用不了，正常情况。
+v2ray,vmess,ss,ssr,trojan节点
+> 通过 ping、tcping、真连接延迟测试，最终筛选出一部分
+采集网上节点，自测一遍在上传，可能有部分测试过但是在实际的代理软件还是用不了，正常情况。
+
+
+:rocket: 更新 2023年8月12日15:27:23
 
 :white_check_mark: vmess.txt：筛选的延迟低，可能不准
 
@@ -15,11 +20,29 @@ vmess.txt国内加速地址(任选一个)：
 - [https://ghproxy.com/https://github.com/xlc520/proxy/raw/main/vmess/vmess.txt](https://ghproxy.com/https://github.com/xlc520/proxy/raw/main/vmess/vmess.txt)
 - [https://fastly.jsdelivr.net/gh/xlc520/proxy@main/vmess/vmess.txt](https://fastly.jsdelivr.net/gh/xlc520/proxy@main/vmess/vmess.txt)
 
+```
+https://ghproxy.com/https://github.com/xlc520/proxy/raw/main/vmess/vmess.txt
+```
+或
+```
+https://fastly.jsdelivr.net/gh/xlc520/proxy@main/vmess/vmess.txt
+```
+
+
 node.txt：综合，有快有慢，自行测试，节点较多
 
 node.txt 国内加速地址(任选一个)：
 - [https://ghproxy.com/https://raw.githubusercontent.com/xlc520/proxy/main/vmess/node.txt](https://ghproxy.com/https://raw.githubusercontent.com/xlc520/proxy/main/vmess/node.txt)
 - [https://fastly.jsdelivr.net/gh/xlc520/proxy@main/vmess/node.txt](https://fastly.jsdelivr.net/gh/xlc520/proxy@main/vmess/node.txt)
+
+```
+https://ghproxy.com/https://raw.githubusercontent.com/xlc520/proxy/main/vmess/node.txt
+```
+或
+```
+https://fastly.jsdelivr.net/gh/xlc520/proxy@main/vmess/node.txt
+```
+
 
 ![Alt](https://repobeats.axiom.co/api/embed/8e7b7ce795708a03fc11b614cec2fe471ad097af.svg "Repobeats analytics image")
 
