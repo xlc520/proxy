@@ -43,6 +43,10 @@ https://ghproxy.com/https://raw.githubusercontent.com/xlc520/proxy/main/vmess/no
 https://fastly.jsdelivr.net/gh/xlc520/proxy@main/vmess/node.txt
 ```
 
+wangcai：从wangcai_8下载过来去除我不能用的节点
+ - 方便转为其他类型的订阅(clash等)
+
+
 
 ![Alt](https://repobeats.axiom.co/api/embed/8e7b7ce795708a03fc11b614cec2fe471ad097af.svg "Repobeats analytics image")
 
