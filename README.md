@@ -16,14 +16,15 @@ v2ray,vmess,ss,ssr,trojan节点
 :white_check_mark: vmess.txt：筛选的延迟低，可能不准
 
 vmess.txt国内加速地址(任选一个)：
-
-- [https://ghproxy.com/https://github.com/xlc520/proxy/raw/main/vmess/vmess.txt](https://ghproxy.com/https://github.com/xlc520/proxy/raw/main/vmess/vmess.txt)
-- [https://fastly.jsdelivr.net/gh/xlc520/proxy@main/vmess/vmess.txt](https://fastly.jsdelivr.net/gh/xlc520/proxy@main/vmess/vmess.txt)
-
 ```
 https://ghproxy.com/https://github.com/xlc520/proxy/raw/main/vmess/vmess.txt
 ```
-或
+```
+https://fastly.jsdelivr.net/gh/xlc520/proxy@main/vmess/vmess.txt
+```
+```
+https://ghproxy.com/https://github.com/xlc520/proxy/raw/main/vmess/vmess.txt
+```
 ```
 https://fastly.jsdelivr.net/gh/xlc520/proxy@main/vmess/vmess.txt
 ```
@@ -32,13 +33,15 @@ https://fastly.jsdelivr.net/gh/xlc520/proxy@main/vmess/vmess.txt
 node.txt：综合，有快有慢，自行测试，节点较多
 
 node.txt 国内加速地址(任选一个)：
-- [https://ghproxy.com/https://raw.githubusercontent.com/xlc520/proxy/main/vmess/node.txt](https://ghproxy.com/https://raw.githubusercontent.com/xlc520/proxy/main/vmess/node.txt)
-- [https://fastly.jsdelivr.net/gh/xlc520/proxy@main/vmess/node.txt](https://fastly.jsdelivr.net/gh/xlc520/proxy@main/vmess/node.txt)
-
 ```
 https://ghproxy.com/https://raw.githubusercontent.com/xlc520/proxy/main/vmess/node.txt
 ```
-或
+```
+https://fastly.jsdelivr.net/gh/xlc520/proxy@main/vmess/node.txt
+```
+```
+https://ghproxy.com/https://raw.githubusercontent.com/xlc520/proxy/main/vmess/node.txt
+```
 ```
 https://fastly.jsdelivr.net/gh/xlc520/proxy@main/vmess/node.txt
 ```
@@ -46,7 +49,15 @@ https://fastly.jsdelivr.net/gh/xlc520/proxy@main/vmess/node.txt
 wangcai：从wangcai_8下载过来去除我不能用的节点
  - 方便转为其他类型的订阅(clash等)
 
-
+```
+https://github.com/xlc520/proxy/raw/main/vmess/wangcai
+```
+```
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/xlc520/proxy/main/vmess/wangcai
+```
+```
+https://ghproxy.net/https://raw.githubusercontent.com/xlc520/proxy/main/vmess/wangcai
+```
 
 ![Alt](https://repobeats.axiom.co/api/embed/8e7b7ce795708a03fc11b614cec2fe471ad097af.svg "Repobeats analytics image")
 
