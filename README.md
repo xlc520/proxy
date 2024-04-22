@@ -6,14 +6,31 @@ GitHub：[https://github.com/xlc520](https://github.com/xlc520)
 
 
 # proxy
-v2ray,vmess,ss,ssr,trojan节点
+
+vmess,ss,ssr,trojan,clash节点订阅
 > 通过 ping、tcping、真连接延迟测试，最终筛选出一部分
 采集网上节点，自测一遍在上传，可能有部分测试过但是在实际的代理软件还是用不了，正常情况。
 
 
-:rocket: 更新 2023年8月12日15:27:23
+:rocket: 更新 2024年4月22日21:24:40
 
-:white_check_mark: vmess.txt：筛选的延迟低，可能不准
+
+:white_check_mark:wangcai：从wangcai_8下载过来，去除我不能用的节点，用来救急
+ - 方便转为其他类型的订阅(clash等)
+
+```
+https://github.com/xlc520/proxy/raw/main/vmess/wangcai
+```
+```
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/xlc520/proxy/main/vmess/wangcai
+```
+```
+https://ghproxy.net/https://raw.githubusercontent.com/xlc520/proxy/main/vmess/wangcai
+```
+
+**下面暂不维护了**
+
+ :x: ~~vmess.txt：筛选的延迟低，可能不准~~
 
 vmess.txt国内加速地址(任选一个)：
 ```
@@ -30,7 +47,7 @@ https://fastly.jsdelivr.net/gh/xlc520/proxy@main/vmess/vmess.txt
 ```
 
 
-node.txt：综合，有快有慢，自行测试，节点较多
+:x:~~node.txt：综合，有快有慢，自行测试，节点较多~~
 
 node.txt 国内加速地址(任选一个)：
 ```
@@ -44,19 +61,6 @@ https://ghproxy.com/https://raw.githubusercontent.com/xlc520/proxy/main/vmess/no
 ```
 ```
 https://fastly.jsdelivr.net/gh/xlc520/proxy@main/vmess/node.txt
-```
-
-wangcai：从wangcai_8下载过来去除我不能用的节点
- - 方便转为其他类型的订阅(clash等)
-
-```
-https://github.com/xlc520/proxy/raw/main/vmess/wangcai
-```
-```
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/xlc520/proxy/main/vmess/wangcai
-```
-```
-https://ghproxy.net/https://raw.githubusercontent.com/xlc520/proxy/main/vmess/wangcai
 ```
 
 ![Alt](https://repobeats.axiom.co/api/embed/8e7b7ce795708a03fc11b614cec2fe471ad097af.svg "Repobeats analytics image")
