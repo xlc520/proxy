@@ -28,6 +28,24 @@ https://mirror.ghproxy.com/https://raw.githubusercontent.com/xlc520/proxy/main/v
 https://ghproxy.net/https://raw.githubusercontent.com/xlc520/proxy/main/vmess/wangcai
 ```
 
+
+:white_check_mark:node.txt：综合，有快有慢，自行测试
+
+node.txt 国内加速地址(任选一个)：
+```
+https://ghproxy.com/https://raw.githubusercontent.com/xlc520/proxy/main/vmess/node.txt
+```
+```
+https://fastly.jsdelivr.net/gh/xlc520/proxy@main/vmess/node.txt
+```
+```
+https://ghproxy.com/https://raw.githubusercontent.com/xlc520/proxy/main/vmess/node.txt
+```
+```
+https://fastly.jsdelivr.net/gh/xlc520/proxy@main/vmess/node.txt
+```
+
+
 **下面暂不维护了**
 
  :x: ~~vmess.txt：筛选的延迟低，可能不准~~
@@ -46,22 +64,6 @@ https://ghproxy.com/https://github.com/xlc520/proxy/raw/main/vmess/vmess.txt
 https://fastly.jsdelivr.net/gh/xlc520/proxy@main/vmess/vmess.txt
 ```
 
-
-:x:~~node.txt：综合，有快有慢，自行测试，节点较多~~
-
-node.txt 国内加速地址(任选一个)：
-```
-https://ghproxy.com/https://raw.githubusercontent.com/xlc520/proxy/main/vmess/node.txt
-```
-```
-https://fastly.jsdelivr.net/gh/xlc520/proxy@main/vmess/node.txt
-```
-```
-https://ghproxy.com/https://raw.githubusercontent.com/xlc520/proxy/main/vmess/node.txt
-```
-```
-https://fastly.jsdelivr.net/gh/xlc520/proxy@main/vmess/node.txt
-```
 
 ![Alt](https://repobeats.axiom.co/api/embed/8e7b7ce795708a03fc11b614cec2fe471ad097af.svg "Repobeats analytics image")
 
