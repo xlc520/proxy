@@ -33,7 +33,7 @@ https://ghproxy.net/https://raw.githubusercontent.com/xlc520/proxy/main/vmess/wa
 
 node.txt 国内加速地址(任选一个)：
 ```
-https://ghproxy.com/https://raw.githubusercontent.com/xlc520/proxy/main/vmess/node.txt
+https://github.com/xlc520/proxy/raw/main/vmess/node.txt
 ```
 ```
 https://fastly.jsdelivr.net/gh/xlc520/proxy@main/vmess/node.txt
